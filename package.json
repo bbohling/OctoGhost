@@ -27,6 +27,7 @@
         "underscore":    "1.5.2",
         "commander":     "*",
         "async":         "*",
-        "kitten":        "*"
+        "kitten":        "*",
+        "marked": "~0.3.1"
     }
 }
